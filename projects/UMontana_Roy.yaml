@@ -1,0 +1,8 @@
+Description: Small molecule and genomics projects, including: We have developed a virtual screening method to screen billions of molecules for hit generation against specific protein targets and want to develop the method further. We are also developing a method for calculating the entropy of small molecules from their surface properties. Finally, understanding transferability of polygenic risk scores (PRS) - we are working on a network model to identify the best way to transfer a PRS model from the population it was developed for to another population not included in the study. 
+Department: Biomedical and Pharmaceutical Sciences FieldOfScience: Biological and Biomedical Sciences
+Organization: University of Montana
+PIName: Amitava Roy
+
+Sponsor:
+  CampusGrid:
+    Name: OSG Connect
