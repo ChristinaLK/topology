@@ -1,0 +1,11 @@
+Department: Biochemistry
+Description: Understanding protein function in biology depends on understanding the
+  multiple conformations they can adopt. We recently adapted AlphaFold in a method
+  called "AF-cluster" to predict multiple conformations of proteins with large-scale
+  rearrangements in their secondary structure. We are running large-scale screens
+  using AF-cluster to identify previously undiscovered biologically-relevant conformational
+  changes.
+FieldOfScience: Biochemistry
+Organization: Brandeis University
+PIName: Hannah Wayment-Steele
+
